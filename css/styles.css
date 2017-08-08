@@ -10,3 +10,12 @@
 .clickable:hover {
   text-decoration: underline;
 }
+
+.blue {
+  color: red;
+  background-color: blue;
+}
+
+img {
+  width: 40%;
+}
