@@ -15,7 +15,7 @@ _If you have questions or run into any issues email me at: david.hale7@gmail.com
 
 ## Technologies Used
 
-_HTML and CSS_
+_HTML, CSS, and JavaScript_
 
 ### License
 
